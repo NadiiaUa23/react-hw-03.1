@@ -1,0 +1,43 @@
+.contactItem {
+    display: inline-block;
+    width: 281px;
+    align-items: center;
+    padding: 10px;
+    margin: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+.contbox {
+    display: flex;
+
+}
+
+.etm {
+    display: flex;
+    flex-direction: column;
+    margin-right: 60px;
+}
+
+.contactName {
+    font-size: 18px;
+
+}
+
+.contactNumber {
+    font-size: 16px;
+}
+
+.btn {
+    background-color: #d6d6d6;
+    border: none;
+    color: rgb(8, 8, 8);
+    padding: 5px 10px;
+    border-radius: 4px;
+    cursor: pointer;
+    margin-left: 33px;
+}
+
+.btn:hover {
+    background-color: #f24e3c;
+}

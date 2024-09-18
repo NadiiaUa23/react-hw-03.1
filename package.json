@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "formik": "^2.4.6",
+    "nanoid": "^5.0.7",
+    "yup": "^1.4.0"
+  },
+  "devDependencies": {
+    "prettier": "^3.3.3"
+  }
+}
